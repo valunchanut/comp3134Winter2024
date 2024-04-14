@@ -1,0 +1,55 @@
+--1
+Domain Name: georgebrown.ca
+IP Address: 198.96.86.176
+Country: Canada
+Region: Ontario
+City: Toronto
+ISP: The George Brown College of Applied Arts And Technology
+Organization: The George Brown College of Applied Arts And Technology (gbrownc.on.ca)
+Latitude: 43.65476
+Longitude: -79.36224
+
+--2
+Domain Name: twitter.com
+IP Address: 104.244.42.1
+Country: United States
+Region: California
+City: San Francisco
+ISP: Twitter Inc.
+Organization: Twitter Inc. (twitter.com)
+Latitude: 37.77397
+Longitude: -122.4105
+
+--3
+Domain Name: amazon.com
+IP Address: 205.251.242.103
+Country: United States
+Region: Virginia
+City: Ashburn
+ISP: Amazon.com, Inc.
+Organization: Amazon.com, Inc. (amazonaws.com)
+Latitude: 39.04372
+Longitude: -77.48748
+
+--4
+Domain Name: tiktok.com
+IP Address: 108.138.246.107
+Country: United States
+Region: California
+City: San Francisco
+ISP: Amazon.com, Inc.
+Organization: Amazon.com, Inc. (amazonaws.com)
+Latitude: 37.77496
+Longitude: -122.41946
+
+--5
+Domain Name: timhortons.com
+IP Address: 18.238.192.74
+Country: United States
+Region: California
+City: San Francisco
+ISP: Amazon.com, Inc.
+Organization: Amazon.com, Inc. (amazonaws.com)
+Latitude: 37.77496
+Longitude: -122.41946
+

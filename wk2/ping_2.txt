@@ -1,0 +1,13 @@
+Summer@Pearl MINGW64 ~ (main)
+$ ping 165.227.40.232 -w 5
+
+Pinging 165.227.40.232 with 32 bytes of data:
+Reply from 165.227.40.232: bytes=32 time=15ms TTL=56
+Reply from 165.227.40.232: bytes=32 time=11ms TTL=56
+Reply from 165.227.40.232: bytes=32 time=13ms TTL=56
+Reply from 165.227.40.232: bytes=32 time=12ms TTL=56
+
+Ping statistics for 165.227.40.232:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 11ms, Maximum = 15ms, Average = 12ms

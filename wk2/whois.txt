@@ -1,0 +1,270 @@
+--1
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04+0000
+Creation Date: 1997-09-15T07:00:00+0000
+Registrar Registration Expiration Date: 2028-09-13T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns1.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-04-14T03:14:43+0000 <<<
+
+--2
+Domain Name: costco.ca
+Registry Domain ID: D365679-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.cscglobal.com
+Updated Date: 2023-10-30T04:00:35Z
+Creation Date: 2000-11-21T11:17:13Z
+Registry Expiry Date: 2024-10-30T04:00:00Z
+Registrar: CSC Corporate Domains (Canada) Company
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.3026365400
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 11537113-CIRA
+Registrant Name: Price Costco International, Inc. - TMA541717
+Registrant Organization:
+Registrant Street: 999 Lake Drive
+Registrant City: Issaquah
+Registrant State/Province: WA
+Registrant Postal Code: 98027
+Registrant Country: US
+Registrant Phone: +1.4253138100
+Registrant Phone Ext:
+Registrant Fax: +1.4254273120
+Registrant Fax Ext:
+Registrant Email: email@costco.com
+Registry Admin ID: C1638325-CIRA
+Admin Name: Anna Duan
+Admin Organization: Price Costco International Inc.
+Admin Street: 999 Lake Drive 
+Admin City: Issaquah
+Admin State/Province: WA
+Admin Postal Code: 98027
+Admin Country: US
+Admin Phone: 1 425 3138100
+Admin Phone Ext:
+Admin Fax: 1 425 4273120
+Admin Fax Ext:
+Admin Email: email@internationaladmin.com
+Registry Tech ID: C1641809-CIRA
+Tech Name: Costco Wholesale Membership Inc
+Tech Organization: Costco Wholesale Membership, Inc.
+Tech Street: 999 Lake Dr 
+Tech City: Issaquah
+Tech State/Province: WA
+Tech Postal Code: 98027
+Tech Country: US
+Tech Phone: 1 425 3138100
+Tech Phone Ext:
+Tech Fax: 1 425 4273120
+Tech Fax Ext:
+Tech Email: email@costco.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a1-116.akam.net
+Name Server: a14-67.akam.net
+Name Server: a28-66.akam.net
+Name Server: a5-64.akam.net
+Name Server: a6-64.akam.net
+Name Server: a9-66.akam.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-04-14T21:52:48Z <<<
+
+--3
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-01-14T09:59:58+0000
+Creation Date: 2005-02-15T05:13:12+0000
+Registrar Registration Expiration Date: 2025-02-15T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Name Server: ns4.google.com
+Name Server: ns1.google.com
+Name Server: ns3.google.com
+Name Server: ns2.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-04-14T06:15:32+0000
+
+--4
+Domain Name: y8.com
+Registry Domain ID: 742611_DOMAIN_COM-VRSN
+Registrar WHOIS Server: WHOIS.ENOM.COM
+Registrar URL: WWW.ENOMDOMAINS.COM
+Updated Date: 2023-08-18T09:50:34.00Z
+Creation Date: 1997-09-02T04:00:00.00Z
+Registrar Registration Expiration Date: 2024-09-01T04:00:00.00Z
+Registrar: ENOM, INC.
+Registrar IANA ID: 48
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registrant Name: Whois Agent (772455833)
+Registrant Organization: Whois Privacy Protection Service, Inc.
+Registrant Street: PO Box 639
+Registrant Street: C/O y8.com
+Registrant City: Kirkland
+Registrant State/Province: WA
+Registrant Postal Code: 98083
+Registrant Country: US
+Registrant Phone: +1.4252740657
+Registrant Phone Ext: 
+Registrant Fax: +1.4259744730
+Registrant Email: email@whoisprivacyprotect.com
+Admin Name: Whois Agent
+Admin Organization: Whois Privacy Protection Service, Inc.
+Admin Street: PO Box 639
+Admin Street: C/O y8.com
+Admin City: Kirkland
+Admin State/Province: WA
+Admin Postal Code: 98083
+Admin Country: US
+Admin Phone: +1.4252740657
+Admin Phone Ext: 
+Admin Fax: +1.4259744730
+Admin Email: email@whoisprivacyprotect.com
+Tech Name: Whois Agent
+Tech Organization: Whois Privacy Protection Service, Inc.
+Tech Street: PO Box 639
+Tech Street: C/O y8.com
+Tech City: Kirkland
+Tech State/Province: WA
+Tech Postal Code: 98083
+Tech Country: US
+Tech Phone: +1.4252740657
+Tech Phone Ext: 
+Tech Fax: +1.4259744730
+Tech Email: email@whoisprivacyprotect.com
+Name Server: NS3.Y8.COM
+Name Server: NS4.Y8.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: email@ENOM.COM
+Registrar Abuse Contact Phone: +1.4259744689
+URL of the ICANN WHOIS Data Problem Reporting System: HTTP://WDPRS.INTERNIC.NET/
+>>> Last update of WHOIS database: 2024-04-14T21:58:04.00Z <<<
+
+--5
+Domain Name: wongnai.com
+Registry Domain ID: 1576903916_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrar.amazon
+Registrar URL: https://registrar.amazon.com
+Updated Date: 2023-10-21T23:48:40Z
+Creation Date: 2009-11-25T09:38:50Z
+Registrar Registration Expiration Date: 2024-11-25T09:38:50Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Registrar Abuse Contact Email: email@amazonaws.com
+Registrar Abuse Contact Phone: +1.2024422253
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: On behalf of wongnai.com owner
+Registrant Organization: Identity Protection Service
+Registrant Street: PO Box 786
+Registrant City: Hayes
+Registrant State/Province: Middlesex
+Registrant Postal Code: UB3 9TR
+Registrant Country: GB
+Registrant Phone: +44.1483307527
+Registrant Phone Ext:
+Registrant Fax: +44.1483304031
+Registrant Fax Ext:
+Registrant Email: email@identity-protect.org
+Registry Admin ID: Not Available From Registry
+Admin Name: On behalf of wongnai.com owner
+Admin Organization: Identity Protection Service
+Admin Street: PO Box 786
+Admin City: Hayes
+Admin State/Province: Middlesex
+Admin Postal Code: UB3 9TR
+Admin Country: GB
+Admin Phone: +44.1483307527
+Admin Phone Ext:
+Admin Fax: +44.1483304031
+Admin Fax Ext:
+Admin Email: email@identity-protect.org
+Registry Tech ID: Not Available From Registry
+Tech Name: On behalf of wongnai.com owner
+Tech Organization: Identity Protection Service
+Tech Street: PO Box 786
+Tech City: Hayes
+Tech State/Province: Middlesex
+Tech Postal Code: UB3 9TR
+Tech Country: GB
+Tech Phone: +44.1483307527
+Tech Phone Ext:
+Tech Fax: +44.1483304031
+Tech Fax Ext:
+Tech Email: email@identity-protect.org
+Name Server: NS-419.AWSDNS-52.COM
+Name Server: NS-849.AWSDNS-42.NET
+Name Server: NS-1659.AWSDNS-15.CO.UK
+Name Server: NS-1486.AWSDNS-57.ORG
+DNSSEC: signedDelegation
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-04-14T21:58:43Z <<<
